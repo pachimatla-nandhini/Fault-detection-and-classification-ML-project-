@@ -17,6 +17,8 @@ Web App: Developed using Flask/Streamlit
 Deployment: IBM Watson Studio + IBM Cloud App Services
 
 Results:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/79ea3403-7800-434e-bc53-b825db8a4a40" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a9268927-8592-42ae-9891-1556d4cf236d" />
 Accuracy: ~93%
 Best classification: LG (Line-to-Ground) and LLL (Three-phase faults)
 Minimal misclassification
